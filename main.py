@@ -85,7 +85,7 @@ def main():
         elif choice == "2":
             list_tasks(tasks)
         elif choice == "3":
-            delete_task(tasks)1
+            delete_task(tasks)
         elif choice == "4":
             print("再见。")
             break
